@@ -922,7 +922,7 @@ h4 {
     padding-right: 0;
   }
   .border{
-    background-color: rgb(93, 4, 4);
+    background-color: rgb(204, 14, 14);
     width: 50px;
   }
   .margin-left{
@@ -940,6 +940,10 @@ h4 {
   .nav-center.navbar .nav {
     max-width: 100%;
   }
+  .border{
+    background-color: rgb(202, 33, 33);
+    width: 200px;
+  }
  
 }
 
@@ -947,12 +951,20 @@ h4 {
   .b-parallax {
     background-attachment: scroll;
   }
+  .border{
+    background-color: rgb(202, 33, 33);
+    width: 200px;
+  }
 
 }
 
 @media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 1.5) {
   .b-parallax {
     background-attachment: scroll;
+  }
+  .border{
+    background-color: rgb(202, 33, 33);
+    width: 200px;
   }
  
 }
