@@ -18,6 +18,10 @@ body {
   font-size: 14px;
 }
 
+.height{
+height : 50px;
+}
+
 .liens_nav_2 {
   margin-right: 10px;
   box-shadow: 1px 1px 4px 1px grey;
